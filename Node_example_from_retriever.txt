@@ -1,0 +1,20 @@
+
+Example of a LlamaIndex Node retrieve with "retriever.retrieve"
+
+Node ID: a36c22d0-97d8-484e-9cfb-9f83b61cc90e
+Text: The soft round palate offers ripe apricot, yellow peach and a
+hint of candied nectarine zest., Ammiraglia Massovivo, 87, 18.0,
+Tuscany, Toscana, nan, Kerin O�Keefe, @kerinokeefe, Marchesi de'
+Frescobaldi 2015 Ammiraglia Massovivo Vermentino (Toscana),
+Vermentino, Marchesi de' Frescobaldi 108, US, Lots of spearmint,
+coyote mint, hot licorice, gin...
+Score:  0.865
+, Node ID: 358e575d-197b-48bc-a717-25281bc8d238
+Text: Salty melon, apricot and apple flavors end steady and long. For
+barrel-fermented Verdejo, this is at the top of the pile., Fermentado
+en Barrica, 90, 40.0, Northern Spain, Rueda, nan, Michael Schachner,
+@wineschach, Matarromera 2015 Fermentado en Barrica Verdejo (Rueda),
+Verdejo, Matarromera 213, US, This blend of 60% Petite Sirah, 21%
+Syrah, 7%...
+Score:  0.853
+
